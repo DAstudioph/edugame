@@ -1,7 +1,7 @@
-package ui;
+package ui_system;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        register_menu.regMenu();
     }
 }
